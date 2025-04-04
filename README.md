@@ -14,7 +14,6 @@ This tutorial outlines the prerequisites and installation of virtual machines an
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
