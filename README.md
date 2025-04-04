@@ -1,5 +1,5 @@
 <p align="center">
-![Screenshot 2025-03-30 212242](https://github.com/user-attachments/assets/edf61fec-8c8d-43be-aa15-742f4f1e83eb)
+(https://github.com/user-attachments/assets/edf61fec-8c8d-43be-aa15-742f4f1e83eb)
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
